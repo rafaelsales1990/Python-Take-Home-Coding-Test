@@ -1,0 +1,4 @@
+Python version 3.7
+Dependencie: 
+pyodbc to install this lib you have execute:  pip install pyodbc 
+sseclient to install this lib you have execute: pip install sseclient
